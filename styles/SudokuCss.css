@@ -1,0 +1,16 @@
+.wrap {
+    overflow: hidden;
+    text-align: center;
+    /* border: black solid 1px; */
+    width: 100vw;
+    height: 100vw;
+}
+
+.wrap>div {
+    background-color: orange;
+    width: 31%;
+    height: 31%;
+    border-radius: 5%;
+    float: left;
+    margin: 0 1.75% 1.75% 0;
+}
